@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keyisa Raihan, OR @yotakeys 
 - 👋 I am From Indonesia
-- 👀 Check My Instagram @yotakey
+- 👀 Check My Instagram @yotakeys
 - 📫 How to reach me @raihankeyisa@gmail.com
 
 <!---
