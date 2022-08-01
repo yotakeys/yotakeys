@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Keyisa Raihan</h1>
-<h3 align="center">I am From Indonesia, for now being a student at Institute of Technology Sepuluh Nopember Informatics Engineering</h3>
+<h1 align="center">I'm Keyisa Raihan / Yotakey</h1>
+<h3 align="center">I am From Indonesia, a student at Institute of Technology Sepuluh Nopember Informatics Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotakeys&label=Profile%20views&color=0e75b6&style=flat" alt="yotakeys" /> </p>
 
