@@ -1,4 +1,4 @@
-Python Enthusiastic
+Python Enthusiast
  + Python for Code, Software/Web Developing, Automation, Data Processing, and Machine Learning
 
 - 📫 How to reach me **raihankeyisa@gmail.com**
